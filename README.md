@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<p align="right">You are the <img align="center"  alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" /> persons to visit my github homepage.</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iravitejakumar)](https://github.com/anuraghazra/github-readme-stats)
 
 
