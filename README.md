@@ -33,8 +33,8 @@
 
 <p align="left">
 <a href="https://github.com/iravitejakumar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iravitejakumar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iravitejakumar&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iravitejakumar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iravitejakumar&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
