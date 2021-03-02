@@ -2,6 +2,13 @@
 
 <p align="right">You are the <img align="center"  alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" /> persons to visit my github homepage.</p>
 
+<p align="center">
+<a href="http://iravitejakumar.github.io/"><img src="https://img.shields.io/badge/-Blog%20and%20Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/iravitejakumar"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mailto@iravitejakumar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/iravitejakumar"><img src= "https://img.shields.io/badge/-Twitter-1769FF?style=flat-square&logo=Twitter&logoColor=white" /> </a>
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
