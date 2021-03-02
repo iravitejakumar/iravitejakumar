@@ -28,7 +28,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iravitejakumar)](https://github.com/anuraghazra/github-readme-stats)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/iravitejakumar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iravitejakumar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iravitejakumar&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iravitejakumar)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!--
