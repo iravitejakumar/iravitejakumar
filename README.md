@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="right">You are the <img align="center"  alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" /> persons to visit my github homepage.</p>
+<p align="right"><img align="center"  alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md"/></p>
 
 <p align="center">
 <a href="http://iravitejakumar.github.io/"><img src="https://img.shields.io/badge/-Blog%20and%20Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
