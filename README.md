@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"><img align="center" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md"/></p>
+<p align="left"><img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md"/></p>
 
 <p align="center">
 <a href="http://iravitejakumar.github.io/"><img src="https://img.shields.io/badge/-Blog%20and%20Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
@@ -33,8 +33,8 @@
 
 <p align="left">
 <a href="https://github.com/iravitejakumar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iravitejakumar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" style="width: 50%"/>
-  <img height="180em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iravitejakumar&layout=compact&exclude_lang=java+r&theme=vue-dark" style="width: 50%"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iravitejakumar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iravitejakumar&layout=compact&exclude_lang=java+r&theme=vue-dark"/>
 </a>
 </p>
 
