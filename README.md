@@ -13,7 +13,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphQL)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)&nbsp;
-![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
