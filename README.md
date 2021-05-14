@@ -15,7 +15,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
 ![D3](https://img.shields.io/badge/-D3-333333?style=flat&logo=d3.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![React-Native](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React Native-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphQL)&nbsp;
